@@ -2,7 +2,7 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate -c -t3 -T60 -O ss-plugins.sh https://github.com/669800/Shell/master/ss-plugins.sh
+wget -N --no-check-certificate -c -t3 -T60 -O ss-plugins.sh https://raw.githubusercontent.com/669800/Shell/master/ss-plugins.sh
 chmod +x ss-plugins.sh
 ./ss-plugins.sh
 ```
